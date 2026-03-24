@@ -1,0 +1,13 @@
+{
+  "name": "wolf-spy-bot",
+  "version": "1.0.0",
+  "description": "Wolf Live Spy Game Bot - لعبة الجاسوس",
+  "main": "bot.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "dependencies": {
+    "wolf.js": "^4.0.0"
+  }
+}
